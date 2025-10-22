@@ -16,7 +16,7 @@ Shoot down enemies, avoid collisions, and aim for the highest score!
 
 💻 How to Run Locally
 
-Clone this repository:git clone https://github.com/radhika820/snakegame.git
+Clone this repository:git clone https://github.com/radhika820/space-invaders?tab=readme-ov-file
 cd space-invaders-python
 
 Create a virtual environment (optional but recommended):
